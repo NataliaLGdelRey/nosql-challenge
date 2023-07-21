@@ -2,13 +2,13 @@
 title: "Module 12 Challenge"
 
 #### References ####
--------------------
+----------------------
 
 https://www.mongodb.com/docs/manual/reference/operator/query-comparison/
 
 https://github.com/SyedFarman/UK-Food-Standards-Agency-NoSQL/tree/main
 
----
+------------------------
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m12/lms/img/banner.jpg" alt="lesson banner" />
 
 ### Before You Begin
